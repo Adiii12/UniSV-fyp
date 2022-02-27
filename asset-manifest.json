@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/UniSV-fyp/static/css/main.6b239fab.css",
-    "main.js": "/UniSV-fyp/static/js/main.176ee573.js",
+    "main.js": "/UniSV-fyp/static/js/main.5143b6fd.js",
     "static/media/hero.png": "/UniSV-fyp/static/media/hero.0e696a1ee97722b26637.png",
     "static/media/courses.jpg": "/UniSV-fyp/static/media/courses.7050fe56c9b57eaeb24e.jpg",
     "index.html": "/UniSV-fyp/index.html",
     "main.6b239fab.css.map": "/UniSV-fyp/static/css/main.6b239fab.css.map",
-    "main.176ee573.js.map": "/UniSV-fyp/static/js/main.176ee573.js.map"
+    "main.5143b6fd.js.map": "/UniSV-fyp/static/js/main.5143b6fd.js.map"
   },
   "entrypoints": [
     "static/css/main.6b239fab.css",
-    "static/js/main.176ee573.js"
+    "static/js/main.5143b6fd.js"
   ]
 }
