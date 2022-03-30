@@ -1,15 +1,20 @@
 {
   "files": {
-    "main.css": "/UniSV-fyp/static/css/main.12f7ce75.css",
-    "main.js": "/UniSV-fyp/static/js/main.6b869b6d.js",
+    "main.css": "/UniSV-fyp/static/css/main.c0e68b61.css",
+    "main.js": "/UniSV-fyp/static/js/main.99f9848e.js",
+    "static/media/script.mp4": "/UniSV-fyp/static/media/script.71f5d883981fd1af7899.mp4",
     "static/media/hero.png": "/UniSV-fyp/static/media/hero.0e696a1ee97722b26637.png",
     "static/media/error.png": "/UniSV-fyp/static/media/error.4119eb0133db732ae9b8.png",
     "index.html": "/UniSV-fyp/index.html",
-    "main.12f7ce75.css.map": "/UniSV-fyp/static/css/main.12f7ce75.css.map",
-    "main.6b869b6d.js.map": "/UniSV-fyp/static/js/main.6b869b6d.js.map"
+    "static/media/search.svg": "/UniSV-fyp/static/media/search.6c95e853cf5a1eedd6e285cecedda3a3.svg",
+    "static/media/certification.svg": "/UniSV-fyp/static/media/certification.09dac097ae1a55d4557c31290d9b6498.svg",
+    "static/media/file.svg": "/UniSV-fyp/static/media/file.4403be57147502c8134908bff6f29371.svg",
+    "static/media/codeIcon.svg": "/UniSV-fyp/static/media/codeIcon.a732e1ef6460cac452378cccfb4a294b.svg",
+    "main.c0e68b61.css.map": "/UniSV-fyp/static/css/main.c0e68b61.css.map",
+    "main.99f9848e.js.map": "/UniSV-fyp/static/js/main.99f9848e.js.map"
   },
   "entrypoints": [
-    "static/css/main.12f7ce75.css",
-    "static/js/main.6b869b6d.js"
+    "static/css/main.c0e68b61.css",
+    "static/js/main.99f9848e.js"
   ]
 }
